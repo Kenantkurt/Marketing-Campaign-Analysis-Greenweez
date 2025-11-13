@@ -1,41 +1,118 @@
 # SEA Campaign Analysis Project
 
-This repository contains the analysis of SEA campaigns for marketing performance at Greenweez, focusing on optimizing marketing spend and ROI.
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![Google Sheets](https://img.shields.io/badge/Tool-Google%20Sheets-yellow)
+![Marketing Analytics](https://img.shields.io/badge/Domain-Marketing%20Analytics-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-## Project Overview
-The goal of this project was to evaluate the performance of different marketing channels, with a particular focus on **SEA campaigns**, by calculating key performance indicators (KPIs) and identifying the most cost-effective campaigns.
-
-## Data & Tools
-- **Data Sources:** Google Sheets and Excel files with campaign performance data
-- **Key Metrics Calculated:**  
-  - **CTR (Click-Through Rate)** – % of impressions that resulted in clicks  
-  - **CPC (Cost Per Click)** – Cost per single click  
-  - **CPM (Cost Per Mille)** – Cost per 1,000 impressions  
-  - **CAC (Customer Acquisition Cost)** – Cost to acquire one customer  
-  - **ROAS (Return on Ad Spend)** – Revenue generated per unit of ad spend
-
-## Analysis Steps
-1. Imported and cleaned campaign data in Google Sheets and Excel  
-2. Used pivot tables to summarize costs, clicks, impressions, and turnover by channel and campaign  
-3. Calculated KPIs (CTR, CPC, CPM, CAC, ROAS) for each campaign and channel  
-4. Compared campaigns to identify high ROI and low-performing campaigns  
-5. Visualized key metrics for better understanding and decision-making
-
-## Key Findings
-- **Top Performing Campaigns:** SEA – DSA and SEA branded campaigns deliver the highest ROI  
-- **Most Cost-Effective Campaigns:** SEA branded campaigns  
-- **Overspending Channels:** SEA Text campaigns and Paid Other channels are underperforming relative to their spend  
-- **Recommendation:** Focus budget on high-performing SEA campaigns and review low-performing channels for optimization
-
-## Interactive Results
-You can view the full interactive analysis in Google Sheets here:  
-[Google Sheet Link](https://docs.google.com/spreadsheets/d/14gnUWsZbDlOQAjhHlKrBVKzqhXPDNs_pgElpJP1vaFA/edit?usp=sharing)
-
-## How to Use
-1. Open the Google Sheet link to explore data and pivot tables  
-2. Filter by channel or campaign to view specific KPIs  
-3. Review key metrics to support marketing decision-making
+This project analyzes **SEA (Search Engine Advertising) campaign performance** for Greenweez, focusing on optimizing marketing spend, improving ROI, and evaluating channel profitability.
 
 ---
 
-This README gives a complete overview of the project, so anyone visiting the repository can understand what was done, how it was done, and what the results were without needing the raw files directly.
+## 📊 Project Overview
+
+The goal of this analysis was to:
+
+- Measure the performance of SEA campaigns  
+- Calculate key marketing KPIs  
+- Identify the most profitable and cost-effective campaigns  
+- Highlight overspending and underperforming channels  
+- Guide marketing budget optimization  
+
+---
+
+## 📂 Data & Tools Used
+
+- **Google Sheets**  
+- **Excel**  
+- **Pivot Tables**  
+- **Formula-based KPI calculations**
+
+### KPIs Calculated:
+
+- **CTR (Click-Through Rate)**  
+- **CPC (Cost Per Click)**  
+- **CPM (Cost Per Mille)**  
+- **CAC (Customer Acquisition Cost)**  
+- **ROAS (Return on Ad Spend)**  
+
+---
+
+## 📈 Analysis Steps
+
+1. Imported and cleaned SEA campaign data in Excel & Google Sheets  
+2. Built pivot tables to aggregate:
+   - Impressions  
+   - Clicks  
+   - Costs  
+   - Turnover  
+3. Calculated KPIs for each channel and campaign  
+4. Compared performance across SEA Text, DSA, Branded, Generic, and Paid Other  
+5. Visualized performance results for better decision-making  
+
+---
+
+## 🔍 Key Findings
+
+- **Top-performing campaigns:**  
+  SEA **DSA** and **Branded** campaigns delivered the **highest ROAS** and best efficiency.
+
+- **Most cost-effective campaigns:**  
+  SEA Branded campaigns showed the best CPC and CAC values.
+
+- **Underperforming / Overspending channels:**  
+  SEA Text and Paid Other channels consumed budget while delivering weak ROI.
+
+- **Recommendation:**  
+  Shift more budget into **Branded + DSA**, and reevaluate the efficiency of Text campaigns and Paid Other.
+
+---
+
+## 🧠 Skills Demonstrated
+
+- KPI development (CTR, CPC, CPM, CAC, ROAS)  
+- Digital marketing performance analysis  
+- Pivot table modeling  
+- Data cleaning & preprocessing  
+- Cost-efficiency and ROI evaluation  
+- Marketing spend optimization  
+
+---
+
+## 📝 Conclusion
+
+This analysis demonstrates how SEA campaign data can be transformed into actionable insights.  
+By identifying strong and weak performers, marketing teams can:
+
+- Allocate budget more effectively  
+- Reduce wasted spend  
+- Focus on high-ROI campaigns  
+- Optimize bidding and segmentation strategies  
+
+The findings highlight the importance of continuous monitoring and data-driven marketing decisions.
+
+---
+
+## 🚀 Future Improvements
+
+- Build an automated SEA dashboard (Looker Studio / Tableau)  
+- Add month-over-month performance tracking  
+- Include keyword-level analysis for deeper optimization  
+- Forecast expected ROAS using regression models  
+
+---
+
+## 📂 Interactive Results
+
+Explore the full interactive analysis here:
+
+👉 **[Google Sheets – SEA Campaign Analysis](https://docs.google.com/spreadsheets/d/14gnUWsZbDlOQAjhHlKrBVKzqhXPDNs_pgElpJP1vaFA/edit?usp=sharing)**
+
+---
+
+## 🔖 Topics / Hashtags
+
+`#SEA` `#MarketingAnalytics` `#DigitalMarketing`  
+`#CPC` `#CPM` `#CTR` `#ROAS`  
+`#DataAnalysis` `#Excel` `#GoogleSheets`  
+`#PaidSearch` `#PerformanceMarketing`  
